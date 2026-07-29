@@ -100,26 +100,34 @@ Version Control	                              Git & GitHub
 Repository Structure
 
 Customer-Churn-Analysis
+
 │
+
 ├── Dataset
+
 │
+
 ├── SQL
 │   ├── 01_Database_Setup.sql
 │   ├── 02_Data_Cleaning.sql
 │   ├── 03_Exploratory_Data_Analysis.sql
 │   ├── 04_Business_Analysis.sql
 │   ├── 05_Advanced_SQL.sql
+
 │
+
 ├── Python
 │   ├── 01_Data_Cleaning.ipynb
 │   ├── 02_EDA.ipynb
 │   ├── 03_Feature_Engineering.ipynb
 │   ├── 04_Model_Building.ipynb
 │   └── 05_Model_Evaluation.ipynb
+
 │
 ├── PowerBI
 │   ├── Customer_Churn.pbix
 │   └── Dashboard_Screenshots
+
 │
 ├── Images
 ├── Reports
