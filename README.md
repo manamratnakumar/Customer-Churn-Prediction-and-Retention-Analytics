@@ -99,7 +99,6 @@ Version Control	                              Git & GitHub
 
 Repository Structure
 
-
 Customer-Churn-Analysis
 │
 ├── Dataset
