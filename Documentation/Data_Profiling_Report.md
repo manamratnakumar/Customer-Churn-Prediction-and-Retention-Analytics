@@ -60,7 +60,7 @@ The target variable contains two values:
 
 This is a binary classification problem.
 
-## Initial Business Hypotheses
+## Initial Business Hypothesis
 
 1. Customers with month-to-month contracts are more likely to churn.
 2. Customers with higher monthly charges have higher churn risk.
