@@ -641,7 +641,254 @@ These drivers can inform:
 
 Instead of treating churn prediction as a simple Yes/No classification problem, the model generates a customer-level churn probability, allowing the business to prioritize intervention based on predicted risk.
 
- 
+ Predicted Churn Probability
+
+<p align="center">
+  <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/Predicted%20Churn%20Probability.png" width="100%">
+</p>
+
+Predictive Decision Flow
+
+Customer Attributes  
+↓  
+Feature Engineering  
+↓  
+Churn Prediction Model  
+↓  
+Churn Probability  
+↓  
+Risk Prioritization  
+↓  
+Targeted Retention Action
+
+Business Value:
+
+The framework enables a shift from reactive churn reporting to proactive retention management.
+
+Customers can be prioritized according to predicted churn risk, allowing retention teams to focus limited resources on the customers most likely to require intervention.
+
+Power BI Executive Intelligence:
+
+Current executive metrics shown include:
+
+7,043 Customers
+
+~2K Churned Customers
+
+26.5% Churn Rate
+
+~$16.06M Revenue
+
+~$2.86M Revenue Lost
+
+$64.76 Average Monthly Charges
+
+32.37 Average Tenure
+
+Executive Dashboard Capabilities:
+
+KPI Monitoring
+
+Customer volume
+
+Churn
+
+Churn rate
+
+Revenue
+
+Revenue loss
+
+Average charges
+
+Average tenure
+
+Analytical Views:
+
+Churn by contract
+
+Churn by internet service
+
+Customer distribution
+
+Revenue by contract
+
+Revenue loss by churn
+
+Customer summary
+
+Quantified Business Insights:
+
+Insight 1 — 26.5% Customer Churn
+
+7,043 customers × 26.5% churn ≈ 1.87K customers affected.
+
+Business implication
+
+Approximately one in every four customers is represented in the churn population.
+
+Action: Make churn reduction an executive KPI and prioritize high-risk customer segments.
+
+Insight 2 — ~$2.86M Revenue Exposure
+
+The Power BI dashboard identifies approximately $2.86M revenue lost to churn.
+
+Against approximately $16.06M total revenue, this represents roughly:
+
+17.8% revenue exposure
+
+Business implication
+
+Customer retention must be evaluated through financial impact, not only customer counts.
+
+The SQL workflow explicitly calculates revenue lost and average revenue lost per churned customer.
+
+Insight 3 — Month-to-Month Customers Are the Critical Contract Risk
+
+The SQL analysis identifies month-to-month customers as the most vulnerable contract group.
+
+Action
+
+Focus contract-conversion initiatives on this segment.
+
+Insight 4 — Revenue Segmentation Enables Priority Retention
+
+The project divides customers into four revenue quartiles using NTILE(4).
+
+Action
+
+Prioritize the highest-value quartiles when churn risk is elevated.
+
+Insight 5 — High-Risk Segments Can Be Ranked by Financial Exposure
+
+The multiple-CTE analysis ranks churned segments by average revenue lost.
+
+Action
+
+Allocate retention resources according to risk × value, not churn count alone.
+
+Insight 6 — Predictive Analytics Adds a Forward-Looking Layer
+
+The Random Forest model achieved:
+
+84.88% Accuracy
+
+69.26% F1
+
+91.92% ROC-AUC
+
+This adds a predictive layer to the descriptive and diagnostic SQL analysis.
+
+Enterprise Retention Strategy:
+
+Priority 1 — High Risk + High Value
+
+91.92% ROC-AUC predictive layer
+             +
+Revenue quartile
+             ↓
+Retention Priority
+
+
+Priority 2 — Contract Conversion
+
+Target month-to-month customers with:
+
+Contract upgrades
+
+Loyalty incentives
+
+Personalized offers
+
+Priority 3 — Revenue Protection
+
+Identify high-value churned customers and build early-warning models for similar active customers.
+
+The SQL analysis explicitly retrieves the top 10 highest-value churned customers by lifetime revenue.
+
+Priority 4 — Service Recovery
+
+Use support-ticket activity as an operational warning signal and intervene before dissatisfaction becomes churn.
+
+Enterprise Impact Statement:
+
+Before
+
+Customer Data
+     ↓
+Churn Percentage
+
+After
+
+7,043 Customers
+       ↓
+26.5% Churn
+       ↓
+~1.87K Customers at Risk/Churned
+       ↓
+Revenue Exposure Analysis
+       ↓
+4-Tier Customer Value Segmentation
+       ↓
+High-Risk / High-Value Identification
+       ↓
+Predictive Churn Modeling
+       ↓
+91.92% ROC-AUC
+       ↓
+Power BI Executive Intelligence
+       ↓
+Retention Prioritization
+
+This project demonstrates that I can:
+
+Analyze
+
+7,043 customer records and quantify a 26.5% churn problem.
+
+Diagnose
+
+Churn across contract, service, tenure, payment, pricing and support dimensions.
+
+Quantify
+
+Revenue exposure and customer-value concentration.
+
+Segment
+
+Customers into four revenue-based quartiles and identify high-value populations.
+
+Engineer
+
+Business-oriented predictive features.
+
+Predict
+
+Customer churn using multiple classification models.
+
+Evaluate
+
+Model performance using accuracy, precision, recall, F1, ROC-AUC and cross-validation.
+
+Operationalize
+
+Analytical logic through SQL views and stored procedures.
+
+Communicate
+
+Results through an executive Power BI dashboard.
+
+Recommend
+
+Targeted retention strategies based on customer risk and value.
+
+Final Executive Statement:
+
+Built an end-to-end Customer Churn Analytics & Retention Intelligence Platform across 7,043 customers, quantifying a 26.5% churn rate and approximately $2.86M revenue loss against ~$16.06M total revenue;
+
+implemented advanced SQL for customer segmentation, revenue quartiles, high-risk/high-value analysis, reusable reporting views and parameterized procedures; developed and evaluated predictive churn models
+
+achieving 91.92% ROC-AUC with Random Forest; and translated analytical findings into an executive Power BI dashboard and risk-based retention strategy.
 
 
 
