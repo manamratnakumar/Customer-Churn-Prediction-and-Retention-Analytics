@@ -137,6 +137,46 @@ Enterprise Solution Architecture:
 
                      
 
+Data Quality
+
+The SQL validation layer was designed to establish a reliable analytical foundation before business analysis.
+
+Validation includes:
+
+Customer record count
+
+NULL checks
+
+Category validation
+
+Contract validation
+
+Internet-service validation
+
+Payment-method validation
+
+Negative monthly-charge detection
+
+Negative total-charge detection
+
+Invalid tenure detection
+
+Invalid support-ticket detection
+
+Enterprise Data Quality Principle:
+
+Raw Data
+   ↓
+Validation
+   ↓
+Quality Controls
+   ↓
+Trusted Analytical Dataset
+   ↓
+Business Decisions
+
+
+
 
 
                      
