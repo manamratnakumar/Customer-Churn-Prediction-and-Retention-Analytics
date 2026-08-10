@@ -38,14 +38,19 @@ The project therefore focuses on:
 
 WHO IS CHURNING?
         ↓
+        
 WHY ARE THEY CHURNING?
         ↓
+        
 WHAT CUSTOMER SEGMENTS ARE AT RISK?
         ↓
+        
 HOW MUCH VALUE IS EXPOSED?
         ↓
+        
 WHO SHOULD BE PRIORITIZED?
         ↓
+        
 WHAT RETENTION ACTION SHOULD BE TAKEN?
 
  Problem Statement :
@@ -91,14 +96,23 @@ Churn Drivers → Revenue Risk → Predictive Risk → Retention Priority
 Executive KPI Snapshot
 
 KPI	                                              Project Result
+
 Customer Base                                    	7,043
+
 Overall Churn Rate	                              26.5%
+
 Approx. Churned Customers	                        1.87K
+
 Approx. Retained Customers	                      5.17K
+
 Average Monthly Charges	                          64.76
+
 Average Tenure	                                  32.37 months
+
 Total Revenue	                                    $16.06M
+
 Revenue Lost to Churn	                            $2.86M
+
 Revenue Exposure	                                17.8% of total revenue
 
 The customer-base and churn figures are directly supported by the SQL analysis; the revenue/KPI figures above reflect the values shown in your submitted Power BI dashboard.
