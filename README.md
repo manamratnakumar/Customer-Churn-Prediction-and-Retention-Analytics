@@ -603,6 +603,11 @@ ROC-AUC was used to evaluate the model's ability to distinguish between customer
   <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/AUC%20score.png" width="100%">
 </p>
 
+Feature Importance:
+
+Model interpretability was used to understand which customer attributes contributed most strongly to the model's churn predictions.
+
+
 
 
 
