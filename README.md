@@ -412,12 +412,16 @@ Repeated support interactions may indicate unresolved customer issues.
 Retention workflow:
 
 Support Activity
+
        ↓
 Potential Risk Signal
+
        ↓
 Customer Review
+
        ↓
 Service Recovery
+
        ↓
 Retention
 
