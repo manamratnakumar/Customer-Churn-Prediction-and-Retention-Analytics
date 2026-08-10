@@ -37,18 +37,23 @@ These are approximate values derived from the verified 7,043-record base and 26.
 The project therefore focuses on:
 
 WHO IS CHURNING?
+
         ↓
         
 WHY ARE THEY CHURNING?
+
         ↓
         
 WHAT CUSTOMER SEGMENTS ARE AT RISK?
+
         ↓
         
 HOW MUCH VALUE IS EXPOSED?
+
         ↓
         
 WHO SHOULD BE PRIORITIZED?
+
         ↓
         
 WHAT RETENTION ACTION SHOULD BE TAKEN?
