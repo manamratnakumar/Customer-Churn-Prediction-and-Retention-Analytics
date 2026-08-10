@@ -391,6 +391,82 @@ Average revenue lost
 
 and ranks segments by average revenue loss.
 
+High-Risk Customer Analysis
+
+<p align="center">
+  <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/High%20Risk%20customers.SQL.png" width="100%">
+</p>
+
+Customer Support Intelligence:
+
+The project compares:
+
+Average administrative tickets
+
+Average technical tickets between churned and retained customers.
+
+Business hypothesis
+
+Repeated support interactions may indicate unresolved customer issues.
+
+Retention workflow:
+
+Support Activity
+       ↓
+Potential Risk Signal
+       ↓
+Customer Review
+       ↓
+Service Recovery
+       ↓
+Retention
+
+Advanced SQL Capability
+
+The portfolio now demonstrates enterprise-style SQL analytics, including:
+
+Window Functions:
+
+ROW_NUMBER()
+
+RANK()
+
+DENSE_RANK()
+
+LAG()
+
+LEAD()
+
+NTILE()
+
+SUM() OVER()
+
+AVG() OVER()
+
+Advanced Query Architecture:
+
+CTEs
+
+Multi-stage analytical queries
+
+Customer segmentation
+
+Revenue quartiles
+
+High-risk segmentation
+
+Above-average customer identification
+
+The advanced SQL work explicitly implements revenue ranking, quartile segmentation, above-average revenue analysis and multi-CTE high-risk analysis.
+
+
+
+
+
+
+
+
+
 
 
 
