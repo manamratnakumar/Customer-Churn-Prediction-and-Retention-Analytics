@@ -197,6 +197,28 @@ Customer Base:
 
 This becomes the denominator for the project's major customer KPIs.
 
+Churn Exposure
+
+26.5% churn
+
+Approximately 1.87K customers are therefore represented by the churn rate.
+
+### 📊 Customer Churn Distribution
+
+<p align="center">
+  <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/Churn%20Distrubution%20SQL.png" width="100%">
+</p>
+
+Business significance
+
+This establishes churn as a major commercial KPI rather than merely a machine-learning target.
+
+Contract Intelligence:
+
+The analysis evaluates churn by contract type and identifies the most vulnerable plans.
+
+
+
 
 
 
