@@ -503,6 +503,28 @@ Random Forest
 
 XGBoost
 
+Feature Engineering :
+
+Feature engineering transformed the raw customer attributes into business-relevant predictors that could support both machine-learning performance and retention decision-making.
+
+The feature-engineering layer included customer tenure segmentation and the creation of a business-driven  High-Risk Customer indicator. The high-risk definition combines contract type, monthly charges,
+
+and customer tenure to identify customers who may require proactive retention attention.
+
+High-Risk Customer
+
+Business Question:
+
+Can business rules identify customers at high risk of churn?
+
+Business Objective:
+
+Create a business rule to flag customers with characteristics associated with higher churn risk.
+
+
+
+
+ 
 
 
 
