@@ -521,6 +521,26 @@ Business Objective:
 
 Create a business rule to flag customers with characteristics associated with higher churn risk.
 
+### 📊 High-Risk Customer Distribution
+
+<p align="center">
+  <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/High%20Risk%20Customer-ML.png" width="100%">
+</p>
+
+This step converts raw customer attributes into actionable customer segments, creating a stronger connection between predictive modelling and downstream retention strategy.
+
+Model Selection:
+
+Business Question:
+
+Which machine learning model performs best for customer churn prediction?
+
+Business Objective:
+
+Compare multiple machine learning models using common evaluation metrics.
+
+
+
 
 
 
