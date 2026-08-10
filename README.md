@@ -163,15 +163,25 @@ Invalid tenure detection
 
 Invalid support-ticket detection
 
+### 🔎 SQL Data Quality Validation
+
+<p align="center">
+  <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/Data%20Cleaning%20SQL.png" width="100%">
+</p>
+
 Enterprise Data Quality Principle:
 
 Raw Data
+
    ↓
 Validation
+
    ↓
 Quality Controls
+
    ↓
 Trusted Analytical Dataset
+
    ↓
 Business Decisions
 
