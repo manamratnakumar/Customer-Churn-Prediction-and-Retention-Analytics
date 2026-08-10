@@ -263,6 +263,12 @@ The SQL analysis specifically calculates churn rate by internet service.
   <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/Service%20Inteeligence.SQL.png" width="100%">
 </p>
 
+ Internet Service Churn Analysis
+
+<p align="center">
+  <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/Internet%20Service%20with%20highest%20churn%20Rate.SQL.png" width="100%">
+</p>
+
 Enterprise implication
 
 A high-churn service segment becomes a candidate for:
