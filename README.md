@@ -89,6 +89,7 @@ to:
 Churn Drivers → Revenue Risk → Predictive Risk → Retention Priority
 
 Executive KPI Snapshot
+
 KPI	                                              Project Result
 Customer Base                                    	7,043
 Overall Churn Rate	                              26.5%
@@ -339,6 +340,11 @@ Customer Value Intelligence:
 
 The advanced SQL layer segments customers into four revenue quartiles using NTILE(4).
 
+### 💰 Revenue Loss Analysis
+
+<p align="center">
+  <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/Average%20Revenue%20Lost.SQL.png" width="100%">
+</p>
 
 
 
