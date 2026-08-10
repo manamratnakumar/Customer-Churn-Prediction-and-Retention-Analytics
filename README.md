@@ -224,6 +224,9 @@ The analysis evaluates churn by contract type and identifies the most vulnerable
 
 
 
+
+
+
                      
 
 
