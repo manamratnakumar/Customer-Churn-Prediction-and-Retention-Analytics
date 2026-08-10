@@ -575,6 +575,23 @@ Business Objective:
 
 Evaluate the overall performance of the trained Random Forest model using Accuracy, Precision, Recall, F1-Score, Confusion Matrix, and Classification Report.
 
+ Model Performance Evaluation
+
+<p align="center">
+  <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/Model%20Perfomance%20Output.png" width="100%">
+</p>
+
+Confusion Matrix
+
+<p align="center">
+  <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/Model%20Perfomance%20Confusion%20Matrix.png" width="100%">
+</p>
+
+ROC-AUC Analysis:
+
+ROC-AUC was used to evaluate the model's ability to distinguish between customers who churn and customers who remain.
+
+
 
 
 
