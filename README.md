@@ -245,7 +245,7 @@ Personalized pricing
 
 Longer-term commitment offers
 
-Service Intelligence
+Service Intelligence:
 
 Churn is evaluated across internet-service categories using:
 
@@ -256,6 +256,59 @@ Churned Customers
 Churn Rate
 
 The SQL analysis specifically calculates churn rate by internet service.
+
+🌐 Service-Level Churn Analysis
+
+<p align="center">
+  <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/Service%20Inteeligence.SQL.png" width="100%">
+</p>
+
+Enterprise implication
+
+A high-churn service segment becomes a candidate for:
+
+Service-quality investigation
+
+Pricing review
+
+Customer-experience analysis
+
+Support improvement
+
+Retention offers
+
+Customer Lifecycle Intelligence:
+
+Customers are segmented into:
+
+Lifecycle               	Definition
+New	                      ≤ 12 months
+Regular                   13–36 months
+Loyal	                    > 36 months
+
+The SQL analysis calculates churn rate across these lifecycle groups.
+
+Enterprise insight
+
+Retention should not be treated as a single campaign.
+
+NEW
+→ Onboarding
+
+REGULAR
+→ Engagement & Upsell
+
+LOYAL
+→ Loyalty & Value Protection
+
+Revenue Intelligence:
+
+The project explicitly calculates:
+
+Churned Customers
+Revenue Lost
+Average Revenue Lost per Churned Customer
+
 
 
 
