@@ -8,6 +8,11 @@ achieving 91.92% ROC-AUC with Random Forest; and translated analytical findings 
 
 Executive Dashboard
 
+## 📊 Executive Dashboard
+
+<p align="center">
+  <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/Screenshot%202026-08-10%20130802.png" width="100%">
+</p>
 
 
 
