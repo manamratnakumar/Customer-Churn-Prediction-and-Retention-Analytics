@@ -356,11 +356,41 @@ Customer Value Intelligence:
 
 The advanced SQL layer segments customers into four revenue quartiles using NTILE(4).
 
-### 💰 Revenue Loss Analysis
+ Revenue Loss Analysis
 
 <p align="center">
   <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/Average%20Revenue%20Lost.SQL.png" width="100%">
 </p>
+
+Revenue Distribution
+
+Q1 ────────────────── Premium
+Q2 ────────────────── High
+Q3 ────────────────── Medium
+Q4 ────────────────── Lower
+
+This enables the business to distinguish:
+
+High churn
+
+from
+
+High-value churn
+
+which is strategically much more important.
+
+High-Risk / High-Value Customer Analysis:
+
+The multiple-CTE analysis combines:
+
+Churn status
+Contract
+Internet service
+Churned-customer count
+Average revenue lost
+
+and ranks segments by average revenue loss.
+
 
 
 
