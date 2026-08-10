@@ -463,6 +463,46 @@ Above-average customer identification
 
 The advanced SQL work explicitly implements revenue ranking, quartile segmentation, above-average revenue analysis and multi-CTE high-risk analysis.
 
+Reusable Reporting Layer
+
+The project also demonstrates reusable SQL architecture rather than one-off queries.
+
+vw_ChurnSummary
+
+Reusable contract-level churn reporting view.
+
+vw_RevenueAnalysis
+
+Reusable contract + internet-service revenue analysis view.
+
+The contract procedure accepts a contract parameter and generates the corresponding churn report without requiring the SQL query to be rewritten.
+
+Enterprise benefit
+
+Reusable analytical logic → standardized reporting → easier Power BI integration
+
+Machine Learning
+
+The ML layer extends the project from:
+
+Descriptive Analytics
+
+to:
+
+Predictive Analytics
+
+The workflow compares multiple classification approaches before selecting a model for churn decision support.
+
+Model Portfolio
+
+Logistic Regression
+
+Decision Tree
+
+Random Forest
+
+XGBoost
+
 
 
 
