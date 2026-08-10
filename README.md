@@ -539,6 +539,44 @@ Business Objective:
 
 Compare multiple machine learning models using common evaluation metrics.
 
+Model Accuracy Comparison
+
+<p align="center">
+  <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/Model%20Selection%20Chart.png" width="100%">
+</p>
+
+Best Model Selection
+
+<p align="center">
+  <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/Model%20Selection%20Output.png" width="100%">
+</p>
+
+Business Value
+
+The comparison demonstrates a structured model-selection process where competing algorithms are evaluated before moving into deeper model evaluation and optimization.
+
+Model Performance:
+
+The selected modelling workflow was evaluated using multiple classification metrics rather than relying on accuracy alone.
+
+The evaluation framework included:
+
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Confusion Matrix
+
+Business Question:
+
+How well does the trained Random Forest model predict customer churn across multiple evaluation metrics?
+
+Business Objective:
+
+Evaluate the overall performance of the trained Random Forest model using Accuracy, Precision, Recall, F1-Score, Confusion Matrix, and Classification Report.
+
+
+
 
 
 
