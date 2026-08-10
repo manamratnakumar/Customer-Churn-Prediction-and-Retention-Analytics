@@ -607,6 +607,42 @@ Feature Importance:
 
 Model interpretability was used to understand which customer attributes contributed most strongly to the model's churn predictions.
 
+Feature Importance Output
+
+<p align="center">
+  <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/Feature%20Importance%20output.png" width="100%">
+</p>
+
+ Top 10 Feature Importance
+
+<p align="center">
+  <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/Feature%20Importance%20Graph.png" width="100%">
+</p>
+
+Business Value:
+
+Feature importance converts the predictive model from a black-box output into a source of business insight.
+
+These drivers can inform:
+
+ Customer-experience improvements.
+ 
+ Service interventions.
+ 
+ Pricing and contract strategies.
+ 
+ Targeted retention campaigns.
+ 
+ Early-warning monitoring.
+
+ Predictive Retention Framework:
+
+ The final stage connects machine-learning predictions with customer-level retention decisions.
+
+Instead of treating churn prediction as a simple Yes/No classification problem, the model generates a customer-level churn probability, allowing the business to prioritize intervention based on predicted risk.
+
+ 
+
 
 
 
