@@ -315,6 +315,33 @@ Churned Customers
 Revenue Lost
 Average Revenue Lost per Churned Customer
 
+ Revenue Loss Analysis
+
+<p align="center">
+  <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/Average%20Revenue%20Lost.SQL.png" width="100%">
+</p>
+
+Power BI dashboard reports approximately:
+
+$16.06M Total Revenue
+
+and approximately:
+
+$2.86M Revenue Lost
+
+That implies approximately:
+
+17.8% revenue exposure
+
+based on the dashboard values.
+
+Customer Value Intelligence:
+
+The advanced SQL layer segments customers into four revenue quartiles using NTILE(4).
+
+
+
+
 
 
 
