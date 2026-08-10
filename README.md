@@ -591,6 +591,19 @@ ROC-AUC Analysis:
 
 ROC-AUC was used to evaluate the model's ability to distinguish between customers who churn and customers who remain.
 
+ ROC-AUC Analysis
+
+<p align="center">
+  <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/ROC%20curve%20.png" width="100%">
+</p>
+
+ AUC Score
+
+<p align="center">
+  <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/AUC%20score.png" width="100%">
+</p>
+
+
 
 
 
