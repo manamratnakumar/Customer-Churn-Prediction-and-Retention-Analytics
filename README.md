@@ -217,6 +217,49 @@ Contract Intelligence:
 
 The analysis evaluates churn by contract type and identifies the most vulnerable plans.
 
+ 📈 Contract-Level Churn Analysis
+
+<p align="center">
+  <img src="https://github.com/manamratnakumar/Customer-Churn-Prediction-and-Retention-Analytics/blob/main/Screen%20Shots/Contract%20Type%20with%20highest%20distribution.SQL.png" width="100%">
+</p>
+
+Key enterprise insight
+
+Month-to-month customers are identified as the primary retention-risk segment.
+
+The project therefore moves from:
+
+Contract → Churn
+
+to:
+
+Contract → Retention Strategy
+
+Recommended action
+
+Contract-conversion incentives
+
+Loyalty rewards
+
+Personalized pricing
+
+Longer-term commitment offers
+
+Service Intelligence
+
+Churn is evaluated across internet-service categories using:
+
+Total Customers
++
+Churned Customers
++
+Churn Rate
+
+The SQL analysis specifically calculates churn rate by internet service.
+
+
+
+
 
 
 
