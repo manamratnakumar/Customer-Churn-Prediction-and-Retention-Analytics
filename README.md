@@ -174,15 +174,19 @@ Enterprise Data Quality Principle:
 Raw Data
 
    ↓
+   
 Validation
 
    ↓
+   
 Quality Controls
 
    ↓
+   
 Trusted Analytical Dataset
 
    ↓
+   
 Business Decisions
 
 
