@@ -189,6 +189,15 @@ Trusted Analytical Dataset
    
 Business Decisions
 
+Customer Analytics:
+
+Customer Base:
+
+7,043 customers
+
+This becomes the denominator for the project's major customer KPIs.
+
+
 
 
 
