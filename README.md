@@ -39,24 +39,21 @@ The project therefore focuses on:
 WHO IS CHURNING?
 
         ↓
-        
 WHY ARE THEY CHURNING?
 
         ↓
-        
 WHAT CUSTOMER SEGMENTS ARE AT RISK?
 
         ↓
-        
 HOW MUCH VALUE IS EXPOSED?
 
         ↓
-        
 WHO SHOULD BE PRIORITIZED?
 
         ↓
-        
 WHAT RETENTION ACTION SHOULD BE TAKEN?
+
+
 
  Problem Statement :
 
